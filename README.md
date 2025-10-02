@@ -1,16 +1,14 @@
-## Hi there 👋
+# DANIEL JORNET GÓMEZ
+## ENTONRS DE DESENVOLUPAMENT
+###### 1 CFCS DAW
 
-<!--
-**Draxler-GJ/Draxler-GJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- [THE EQUALIZER 3](https://www.imdb.com/es/title/tt17024450/?ref_=fn_all_ttl_1) 
+- [STAR WARS: EP VI THE RETURN OF THE JEDI](https://www.imdb.com/es/title/tt0086190/?ref_=fn_all_ttl_4)
+- [THE WARRIORS](https://www.imdb.com/es/title/tt0080120/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_The%2520warriors)
+- [SUPER MARIO BROS. LA PELÍCULA](https://www.imdb.com/es/title/tt6718170/?ref_=nv_sr_srsg_2_tt_8_nm_0_in_0_q_Super%2520MArio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![THE EQUALIZER 3](https://guiadelocio.es/madrid/wp-content/uploads/sites/2/2023/08/The-Equalizer-3-Movie-Poster-1.jpg)
+
+
